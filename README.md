@@ -21,7 +21,7 @@ jupyter notebook
 ```
 
 
-In jupyter notebook upload the historical data from link 
+In jupyter notebook, upload the historical data from link 
 `https://drive.google.com/file/d/1aPutuBRJVkx3ufJcMm60mQBM7Zhf2Ffi/view`
 
 ``` update the url variable 4 code box with the file path of the historical data ```
