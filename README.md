@@ -27,3 +27,7 @@ In jupyter notebook, upload the historical data from link
 ``` update the url variable 4 code box with the file path of the historical data ```
 
 #### Restart and Run all.
+
+
+For Refernce:
+The an html document is also attached in supporting material
