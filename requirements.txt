@@ -11,7 +11,7 @@ attrs==19.3.0
 autopep8==1.5
 Babel==2.8.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 bokeh==2.0.2
 -e git+https://github.com/SohierDane/BigQuery_Helper@8615a7f6c1663e7f2d48aa2b32c2dbcb600a440f#egg=bq_helper
 cachetools==4.1.1
