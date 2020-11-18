@@ -72,7 +72,7 @@ nbformat==5.0.4
 ndlib==5.0.2
 netdispatch==0.0.5
 networkx==2.4
-notebook==6.0.3
+notebook==6.1.5
 numpy==1.18.1
 numpydoc==0.9.2
 olefile==0.46
